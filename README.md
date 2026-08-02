@@ -60,7 +60,7 @@ Synthetic CSVs → Foundry datasets → Ontology (objects + links)
 because money laundering is a network problem, modeling `Transaction` as an edge between
 accounts lets the graph traverse a laundering chain and surface a ring.
 
-See [`docs/data_dictionary.md`](docs/data_dictionary.md) for the full object/field model.
+See [`docs/data_dictionary.md`](https://github.com/minhnbnguyen/foundry_aml/blob/main/docs/data_dictionary.md) for the full object/field model.
 
 ## Design decisions (the "why")
 
@@ -85,7 +85,7 @@ See [`docs/data_dictionary.md`](docs/data_dictionary.md) for the full object/fie
 - **Layering ring:** a $320k wire from a high-risk jurisdiction → fanned across four
   recently-onboarded mule accounts → funneled out to one common offshore shell within days.
 
-Ground truth and demo narration notes: [`docs/scenario_key.md`](docs/scenario_key.md).
+Ground truth and demo narration notes: [`docs/scenario_key.md`](https://github.com/minhnbnguyen/foundry_aml/blob/main/docs/scenario_key.md).
 
 ## Repo contents
 
