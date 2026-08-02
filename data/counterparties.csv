@@ -1,0 +1,6 @@
+counterparty_id,name,cp_type,country,risk_flag
+CP001,Apex Trade Services FZE,Shell / Trade,United Arab Emirates,High
+CP002,Meridian Offshore Ltd,Investment,Cyprus,High
+CP003,Great Lakes Produce Co,Business,United States,Low
+CP004,Fidelity Brokerage,Investment,United States,Low
+CP005,Midwest Property Mgmt,Business,United States,Low

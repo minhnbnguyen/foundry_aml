@@ -1,0 +1,51 @@
+customer_id,full_name,customer_type,date_onboarded,kyc_risk_rating,occupation,pep_flag,home_branch,annual_declared_income
+C0001,Jennifer Johnson,Individual,2022-05-08,Low,Retail Manager,N,Oak Park,55000
+C0002,Mark Wilson,Individual,2021-08-13,Medium,Accountant,N,Naperville,95000
+C0003,Ronald Adams,Individual,2013-05-17,Medium,Graphic Designer,N,Oak Park,110000
+C0004,Richard Jackson,Individual,2014-01-19,Low,Consultant,N,Chicago-Loop,95000
+C0005,Robert Martinez,Individual,2019-01-27,Low,Dental Hygienist,N,Chicago-Uptown,62000
+C0006,Michael Gonzalez,Individual,2017-11-13,Low,Mechanic,N,Evanston,95000
+C0007,Brian Martinez,Individual,2022-04-03,Medium,Consultant,N,Oak Park,71000
+C0008,Richard Jones,Individual,2020-12-27,Low,Retail Manager,N,Naperville,95000
+C0009,Anthony Lopez,Individual,2014-04-24,Low,Mechanic,N,Chicago-Loop,71000
+C0010,Jennifer Allen,Individual,2022-05-23,Low,HR Specialist,N,Evanston,71000
+C0011,Lisa Lewis,Individual,2016-09-09,Low,Mechanic,N,Naperville,110000
+C0012,Nancy King,Individual,2020-03-08,Low,Logistics Coordinator,N,Naperville,71000
+C0013,Brian White,Individual,2012-11-08,Low,Consultant,N,Oak Park,71000
+C0014,Mark Johnson,Individual,2013-05-02,Medium,Retail Manager,N,Chicago-Loop,55000
+C0015,Kevin Adams,Individual,2016-02-25,Low,Dental Hygienist,N,Oak Park,62000
+C0016,Emily Williams,Individual,2017-01-15,Low,Dental Hygienist,N,Oak Park,48000
+C0017,Richard Lee,Individual,2020-08-17,Low,Logistics Coordinator,N,Chicago-Loop,55000
+C0018,Paul Harris,Individual,2019-09-14,Low,Accountant,N,Naperville,55000
+C0019,Robert Thompson,Individual,2014-12-22,Low,Consultant,N,Chicago-Uptown,95000
+C0020,Elizabeth Hall,Individual,2016-06-15,Low,Accountant,N,Oak Park,110000
+C0021,Chloe Jackson,Individual,2024-02-09,Low,Accountant,N,Naperville,55000
+C0022,Kevin Brown,Individual,2011-05-16,Medium,Mechanic,N,Oak Park,83000
+C0023,George Wilson,Individual,2017-09-25,Medium,Nurse,N,Chicago-Uptown,83000
+C0024,Mark Jackson,Individual,2021-01-25,Low,Nurse,N,Chicago-Uptown,48000
+C0025,Hannah Young,Individual,2023-09-26,Low,Sales Rep,N,Oak Park,95000
+C0026,Karen Jones,Individual,2012-10-02,Low,Sales Rep,N,Chicago-Loop,71000
+C0027,Nancy Adams,Individual,2016-05-13,Low,Mechanic,N,Naperville,71000
+C0028,Patricia Clark,Individual,2017-07-18,Low,Teacher,N,Chicago-Uptown,71000
+C0029,Grace Hall,Individual,2019-09-17,Low,Teacher,N,Chicago-Loop,71000
+C0030,Edward Jackson,Individual,2024-12-03,Medium,HR Specialist,N,Chicago-Uptown,110000
+C0031,Karen Wilson,Individual,2015-12-26,Low,Retail Manager,N,Oak Park,110000
+C0032,Olivia King,Individual,2019-09-04,Low,Pharmacist,N,Oak Park,83000
+C0033,Sophia Perez,Individual,2021-01-02,Medium,Teacher,N,Chicago-Loop,48000
+C0034,Grace Lee,Individual,2023-03-08,Low,Sales Rep,N,Oak Park,62000
+C0035,Ashley Rodriguez,Individual,2022-05-24,Low,Consultant,N,Evanston,48000
+C0036,James Harris,Individual,2024-12-24,Low,Graphic Designer,N,Oak Park,62000
+C0037,Olivia Miller,Individual,2023-03-04,Low,Sales Rep,N,Chicago-Uptown,48000
+C0038,Brian Thompson,Individual,2024-03-06,Low,Chef,N,Oak Park,55000
+C0039,Brian Hall,Individual,2022-07-06,Medium,Real Estate Agent,N,Naperville,71000
+C0040,Edward Williams,Individual,2015-08-15,Low,Pharmacist,N,Oak Park,62000
+C0041,Sunrise Diner LLC,Business,2015-06-01,Medium,Restaurant Owner,N,Chicago-Uptown,240000
+C0042,Midwest Property Mgmt,Business,2013-03-01,Medium,Property Manager,N,Naperville,520000
+C0043,Betty Coleman,Individual,2009-09-01,Low,Retired,N,Evanston,40000
+C0044,Grace Whitfield,Individual,2026-04-10,Medium,Business Owner,N,Chicago-Loop,600000
+C9001,Marcus Reilly,Individual,2025-11-03,Medium,Rideshare Driver,N,Chicago-Loop,41000
+C9100,Northgate Consulting LLC,Business,2026-03-20,Medium,Consulting,N,Chicago-Loop,180000
+C9101,Katie Brennan,Individual,2026-04-15,Medium,Part-time Retail,N,Naperville,34000
+C9102,Samuel Osei,Individual,2026-04-15,Medium,Part-time Retail,N,Chicago-Loop,31000
+C9103,Lucas Grant,Individual,2026-04-15,Medium,Part-time Retail,N,Chicago-Uptown,38000
+C9104,Nadia Farah,Individual,2026-04-15,Medium,Part-time Retail,N,Evanston,29000
