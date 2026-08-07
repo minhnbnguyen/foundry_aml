@@ -1,4 +1,4 @@
-# Scenario answer-key  (your eyes only — do NOT upload)
+# Scenario answer-key
 
 This is the ground truth behind the data. The uploaded CSVs contain **no**
 "is_fraud" column on purpose — a real monitoring system doesn't know the answer,
