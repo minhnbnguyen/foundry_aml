@@ -4,7 +4,7 @@ An operational workflow built in **Palantir Foundry / AIP** that helps anti-mone
 (AML) analysts triage alert noise and draft regulatory filings — while keeping the human
 analyst as the accountable decision-maker.
 
-> **Demo video:** [add your unlisted YouTube link]
+> **Demo video:** Coming Soon
 >
 > **Note on this repo:** most of the build lives inside Foundry (ontology, AIP Logic
 > functions, write-back Actions, a Workshop app) and is not "clone-and-run." This repo is a
