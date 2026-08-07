@@ -69,9 +69,7 @@ that's what makes the triage step a genuine reasoning task, not a lookup.
 1. **Problem (30s)** — 90 alerts, 90% noise, 30-day filing clock, hand-written SARs.
 2. **Triage (60s)** — AIP scores the queue, clears the diner + car-sale FPs with
    reasons, flags the real ones. Show the 90% collapse.
-3. **The ring (75s)** — open the clustered case, show the graph: Cyprus → Northgate
-   → 4 mules → UAE shell. Let AIP name the typology and cite the tells.
-4. **The SAR (45s)** — one click drafts the who/what/when/where/why/how-much
+3. **The SAR (45s)** — one click drafts the who/what/when/where/why/how-much
    narrative; you edit a line; File SAR writes back + stamps the audit trail.
-5. **Close (30s)** — analyst stayed the decision-maker; AIP removed the 90% that
+4. **Close (30s)** — analyst stayed the decision-maker; AIP removed the 90% that
    wasn't judgment. Impact: faster clears, no missed rings, no missed deadlines.
